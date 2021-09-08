@@ -17,7 +17,10 @@ The program will calculate the user's BMI and display a message depending on the
 * If the user's BMI is equal to or greater than 25, display a message on the console telling the user the value of their BMI, and that he/she is overweight.
 
 You should have comments for each important code block in your code.
-## Chapter Book Exercises
+## Chapter III - Book Exercises
+All the Exercises corresponding to the Chapter 3 are located in the **SRC/chapter3/** Folder of the Project 
+**Java-Programming-2/src/chapter3/**
+
 ### Exercise 4 
 
 Create an application named NumbersDemo whose main() method holds two integer variables. Assign values to the variables. In turn, pass each value to methods named **displayTwiceTheNumber()**, **displayNumberPlusFive()**, and **displayNumberSquared()**. Create each method to perform the task its name implies. Save the application as NumbersDemo.java. Modify the NumbersDemo class to accept the values of the two integers from a user at the keyboard. Save the file as **NumbersDemo2.java**
