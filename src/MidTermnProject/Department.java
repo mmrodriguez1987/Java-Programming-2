@@ -1,9 +1,5 @@
 package MidTermnProject;
 
-/**
- *
- * @author Marcos Rodriguez
- */
 public class Department {   
     
     private String _departmentName;
