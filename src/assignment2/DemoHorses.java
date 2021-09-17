@@ -1,8 +1,5 @@
 package assignment2;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 public class DemoHorses {
     public static RaceHorse myHorse;
 
